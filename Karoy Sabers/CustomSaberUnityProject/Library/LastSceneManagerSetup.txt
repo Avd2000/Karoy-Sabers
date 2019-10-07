@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Saber Scenes/sc2ad.unity
+  isLoaded: 1
+  isActive: 1

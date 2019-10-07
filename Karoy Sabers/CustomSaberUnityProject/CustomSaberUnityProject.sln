@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSaberUnityProject", "Assembly-CSharp.csproj", "{2D07300D-1FCD-5225-5202-E3AA4D922FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSaberUnityProject", "Assembly-CSharp-Editor.csproj", "{504DB8B8-3017-263D-ABE6-FC0322105D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D07300D-1FCD-5225-5202-E3AA4D922FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D07300D-1FCD-5225-5202-E3AA4D922FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D07300D-1FCD-5225-5202-E3AA4D922FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D07300D-1FCD-5225-5202-E3AA4D922FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504DB8B8-3017-263D-ABE6-FC0322105D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504DB8B8-3017-263D-ABE6-FC0322105D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504DB8B8-3017-263D-ABE6-FC0322105D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504DB8B8-3017-263D-ABE6-FC0322105D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
