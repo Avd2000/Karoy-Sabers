@@ -74,7 +74,7 @@
     <None Include="Assets\SABER\Shaders\sh_custom_lit.shader" />
     <None Include="Assets\SABER\Shaders\sh_custom_unlit.shader" />
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/avadh/Documents/Beat Saber Stuff/Saber Time/Karoy Sabers/CustomSaberUnityProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/avadh/Documents/Beat Saber Stuff/Karoy Sabers/Karoy Sabers/CustomSaberUnityProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -272,7 +272,7 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="CustomSaber">
-      <HintPath>C:/Users/avadh/Documents/Beat Saber Stuff/Saber Time/Karoy Sabers/CustomSaberUnityProject/Assets/CustomSaber.dll</HintPath>
+      <HintPath>C:/Users/avadh/Documents/Beat Saber Stuff/Karoy Sabers/Karoy Sabers/CustomSaberUnityProject/Assets/CustomSaber.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

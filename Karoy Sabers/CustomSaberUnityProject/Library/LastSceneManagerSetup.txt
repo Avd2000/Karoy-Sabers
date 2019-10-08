@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Saber Scenes/sc2ad.unity
+- path: Assets/Saber Scenes/trapavid different trail.unity
   isLoaded: 1
   isActive: 1
